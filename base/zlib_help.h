@@ -6,8 +6,8 @@
 //
 #pragma once
 
-#include <zip.h>
-#include <unzip.h>
+#include <minizip/zip.h>
+#include <minizip/unzip.h>
 #include "logs.h"
 
 #ifdef small
